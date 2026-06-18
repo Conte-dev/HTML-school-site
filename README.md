@@ -21,3 +21,7 @@ Non è necessario installare programmi aggiuntivi.
 - Rendere la navigazione più semplice
 - Creare una struttura più ordinata
 - Rendere il sito responsive per dispositivi diversi
+
+## Autore
+
+Conte-dev
